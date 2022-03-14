@@ -1,4 +1,4 @@
-# Hello there, I'm [Avijit][LinkedIN] 
+# Hello there, I'm Avijit
 
 ## I'm Computer Science Student
 - 🌱 Tring to Learn Many Things which will make me better  
