@@ -1,27 +1,17 @@
 # Hello there, I'm Avijit
 
-## I'm Computer Science Student
-- 🌱 Trying to Learn Many Things which will make me better  
-- 🥅 Goals: Learn and Integrate many Technologies. Contribute to Open Source.
-- 🎮 I also love❤️ to play games
-- 📫 To reach me mail on : avijitd22@yahoo.com
-- Checkout https://avijitd22.vercel.app/
 
-### 🌐 Connect with me :-
+# 💫 About Me:
+🌱 Trying to Learn Many Things which will make me better<br>🥅 Goals: Learn and Integrate many Technologies. Contribute to Open Source.<br>🎮 I also love❤️ to play games<br>📫 To reach me mail on : avijitd22@yahoo.com
 
-[![Twitter](./img/twitter-light.svg)](https://twitter.com/AvijitD22#gh-light-mode-only)
-[![Twitter](./img/twitter-dark.svg)](https://twitter.com/AvijitD22#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![LinkedIN](./img/linkedin-light.svg)](https://www.linkedin.com/in/das-avijit/#gh-light-mode-only)
-[![LinkedIN](./img/linkedin-dark.svg)](https://www.linkedin.com/in/das-avijit/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/AvijitD22/#gh-light-mode-only)
-[![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/AvijitD22/#gh-dark-mode-only)
 
-### 📕 My Blogs :-
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avijitd22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avijitd22) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@avijitd22) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/avijitd22) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/avijitd22) 
+![](https://komarev.com/ghpvc/?username=avijitd22)
 
-- [Machine Learning code in Docker](https://avijit-das.medium.com/how-to-run-machine-learning-code-in-docker-container-47f9cb73afdf)
-- [What is LVM and How To Create LVM Partition in Linux](https://avijit-das.medium.com/what-is-lvm-and-how-to-create-lvm-partition-in-linux-b08972d22bad)
-- [ Azure Kubernetes Service(AKS)](https://avijit-das.medium.com/industry-use-cases-of-azure-kubernetes-service-aks-48dc376e3088)
-- [How MNC’s Stores, Manages and Manipulate Thousands of Terabytes of Data with High Speed and High Efficiency](https://avijit-das.medium.com/how-big-mncs-like-google-facebook-instagram-etc-547b018b1a89)
-- [How Epic Games uses AWS](https://avijit-das.medium.com/how-game-publishers-like-epic-games-use-aws-10a35a8f6281)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=avijitd22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=avijitd22&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avijitd22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
